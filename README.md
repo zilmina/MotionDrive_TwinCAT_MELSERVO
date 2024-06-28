@@ -15,7 +15,9 @@
 
 回路図には以下のコンポーネントが含まれています：
 - 三菱サーボアンプ (モデル名，MR-J3-20A1，端子台MR-TB50のみ記載)
-- 
+
+![回路図](/02_Drawings/01_Cabling_EK1100_MR-J/Versions/v1_1_1.png)
+
 回路図に使用されるシンボルは[OpenSchematicsForPLCs]()ライブラリの一部です。回路図を使用する前に、このライブラリが正しく設定されていることを確認してください。
 
 ## Program / プログラム
@@ -53,10 +55,9 @@
 
 ## Acknowledgements / 謝辞
 
-- Beckhoff AutomationのIPCおよびI/O端子
+- Beckhoff AutomationのIPCおよびI/Oターミナル
 - 三菱電機のサーボアンプ
 - PILZの安全コントローラ
-- 全ての貢献者とサポーター
 - 回路図シンボルのためのOpenSchematicsForPLCs
 
 ## Contact / 連絡先
