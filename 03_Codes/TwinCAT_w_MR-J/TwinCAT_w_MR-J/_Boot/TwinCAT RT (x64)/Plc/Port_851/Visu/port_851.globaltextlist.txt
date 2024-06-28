@@ -1,0 +1,4 @@
+Id;Default
+318;CCW
+97;CW
+838;Motor Input

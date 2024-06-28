@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4026.6">
+  <GVL Name="Input" Id="{857ac87e-920b-460e-9346-49f0bbccf0a0}">
+    <Declaration><![CDATA[{attribute 'qualified_only'}
+VAR_GLOBAL
+	bEMG 		AT%I*	:BOOL;
+	bEnable 	AT%I*	:BOOL;
+	bSWGreen 	AT%I*	:BOOL;
+	bSWRed 		AT%I*	:BOOL;
+	iHMISlide: INT;
+END_VAR]]></Declaration>
+  </GVL>
+</TcPlcObject>

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EtherCAT_Terminal")(type "KiCad")(uri "/Users/hk/Desktop/Almina/0d_Libs/01_KiCad/OpenSchematicsForPLCs/0a_Beckhoff/EtherCAT_Terminal.kicad_sym")(options "")(descr ""))
+  (lib (name "MELSERVO")(type "KiCad")(uri "/Users/hk/Desktop/Almina/0d_Libs/01_KiCad/OpenSchematicsForPLCs/0b_Mitsubishi/MELSERVO.kicad_sym")(options "")(descr ""))
+)
